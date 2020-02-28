@@ -1,1 +1,3 @@
-# own_expls
+# examples of self-made web-pages
+
+>>>
